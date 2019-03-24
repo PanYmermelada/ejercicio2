@@ -10,3 +10,7 @@ function suma(a,b){
 	console.log(a+b);
 }
 suma(1,2);
+function resta(a, b){
+	console.log(a-b);
+}
+resta(5,3);
